@@ -16,6 +16,11 @@ app.use(morgan('combined'));
 // Routes
 app.use('/api', apiRoutes);
 
+// home route
+app.get('/', (req, res) => {
+  res.json( 'Welcome' );
+});
+
 // Global 404
 app.use((req, res) => {
   res.status(404).json({ status: 'error', message: 'Route not found' });
