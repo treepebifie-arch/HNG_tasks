@@ -3,3 +3,6 @@ This repo  holds all tasks assigned during the course of the HNG cohort 14 inter
 
 ## STAGE 0 TASKS
 link: https://github.com/treepebifie-arch/HNG_tasks/tree/main/Stage_0
+
+## STAGE 1 TASKS
+link:  https://github.com/treepebifie-arch/HNG_tasks/tree/main/Stage_1

@@ -50,4 +50,4 @@ Set up the environment variables and start the server.
 
   ## Live Url
 
-  hngtask-stage-0.up.railway.app
+  https//:hngtask-stage-0.up.railway.app

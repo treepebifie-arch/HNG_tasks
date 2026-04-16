@@ -12,9 +12,13 @@ Database Persistence: Automatically checks for existing profiles and saves new r
 
 ## Stack
 Runtime: Node.js
+
 Framework: Express
+
 Database: MongoDB
+
 HTTP Client: Axios
+
 ID Generation: UUID (v7)
 
 ## Using the Repo
@@ -61,4 +65,4 @@ Nationality is determined by the country with the highest  probability from the 
 
 ## Live URL
 
-hngtask-stage-0.up.railway.app
+https://hngtasks-stage-1.up.railway.app
